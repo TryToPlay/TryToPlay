@@ -1,4 +1,7 @@
 My name is Prerit Gupta(aka TryTwoPlay)
+
+I'm familiar with c, c++, Java and Python with most experience in Python.
+
 Contact me with:tryproductions2@gmail.com
 
 <!---
