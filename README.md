@@ -1,4 +1,4 @@
-My name is Prerit Gupta(aka TryTwoPlay)
+My name is Prerit Gupta(aka TryToPlay/TryTwoPlay)
 
 I'm familiar with c, c++, Java and Python with most experience in Python.
 
