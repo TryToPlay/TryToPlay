@@ -1,9 +1,10 @@
 My name is Prerit Gupta(aka TryToPlay/TryTwoPlay)
 
 I'm familiar with C, C++, Java and Python with most experience in Python.
+I also use html, css, javascript and php for webdev.
 
 Contact me with email:tryproductions2@gmail.com
-or with instagram:@trytwoplay
+or with instagram: @trytwoplay
 
 <!---
 TryToPlay/TryToPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
