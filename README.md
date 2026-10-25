@@ -4,8 +4,8 @@ I'm familiar with C, C++, Java and Python with most experience in Python.
 
 I also use html, css, javascript and php for webdev.
 
-Contact me with email: tryproductions2@gmail.com
-or with instagram: @trytwoplay
+Contact me with email: prarit27feburary@gmail.com
+or with instagram: @_try.to.play_
 
 <!---
 TryToPlay/TryToPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
